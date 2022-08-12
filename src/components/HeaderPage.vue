@@ -80,4 +80,10 @@ export default {
     color: #fff;
   }
 }
+
+@media (max-width: 1000px) {
+  .header {
+    display: none;
+  }
+}
 </style>
